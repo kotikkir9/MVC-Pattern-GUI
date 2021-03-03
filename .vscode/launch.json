@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": "--module-path D:/Documents/lib/javafx-sdk-15/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "MVC Valuta Individuelle views og controllere_f0aee9b0"
+        }
+    ]
+}
